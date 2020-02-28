@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ramesh",
+    "age": 25,
+    "address": {
+      "present_address": "B002 BM Silver Woods Apts HSR",
+      "city": "Bengaluru"
+    },
+    "postal_code": 560102,
+    "country": "India"
+  },
+  {
+    "name": "Ramesh",
+    "age": 25,
+    "address": {
+      "present_address": "B002 BM Silver Woods Apts HSR",
+      "city": "Bengaluru"
+    },
+    "postal_code": 560102,
+    "country": "India"
+  },
+  {
+    "name": "Kishan",
+    "age": 25,
+    "address": {
+      "present_address": "Electronic City Narasimha Appratments",
+      "city": "Bengaluru"
+    },
+    "postal_code": 560100,
+    "country": "India"
+  },
+  {
+    "name": "Navin Prasath",
+    "age": 25,
+    "address": {
+      "present_ address": "Electornic City PG",
+      "city": "Bengaluru"
+    },
+    "postal_code": 560100,
+    "country": "India"
+  },
+  {
+    "name": "Danna Sai Kiran",
+    "age": 25,
+    "address": {
+      "present_ address": "Neeladri 5th Cross PG",
+      "city": "Bengaluru"
+    },
+    "postal_code": 560100,
+    "country": "India"
+  },
+  {
+    "name": "Vigneshwaran",
+    "age": 25,
+    "address": {
+      "present_ address": "Venkata Sai PG",
+      "city": "Bengaluru"
+    },
+    "postal_code": 560100,
+    "country": "India"
+  }
+]
